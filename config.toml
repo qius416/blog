@@ -1,0 +1,8 @@
+baseURL = "qius416.github.io/blog/"
+languageCode = "en-us"
+title = "Dashatou mengmengda"
+theme = "one"
+publishDir = "docs"
+
+[params]
+    navigation = ["about.md"]

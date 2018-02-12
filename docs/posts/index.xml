@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dashatou mengmengda</title>
+    <link>qius416.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Dashatou mengmengda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 12:22:27 +0900</lastBuildDate>
+    
+        <atom:link href="qius416.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day One</title>
+      <link>qius416.github.io/blog/posts/day-one/</link>
+      <pubDate>Mon, 12 Feb 2018 12:22:27 +0900</pubDate>
+      
+      <guid>qius416.github.io/blog/posts/day-one/</guid>
+      <description>
+
+&lt;h2 id=&#34;hello&#34;&gt;Hello&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
