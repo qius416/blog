@@ -1,4 +1,4 @@
-baseURL = "qius416.github.io/blog/"
+baseURL = "https://qius416.github.io/blog/"
 languageCode = "en-us"
 title = "Dashatou mengmengda"
 theme = "one"

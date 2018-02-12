@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>qius416.github.io/blog/posts/day-one/</loc>
+    <loc>https://qius416.github.io/blog/posts/day-one/</loc>
     <lastmod>2018-02-12T12:22:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>qius416.github.io/blog/categories/</loc>
+    <loc>https://qius416.github.io/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>qius416.github.io/blog/</loc>
-    <lastmod>2018-02-12T12:22:27+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>qius416.github.io/blog/posts/</loc>
+    <loc>https://qius416.github.io/blog/</loc>
     <lastmod>2018-02-12T12:22:27+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>qius416.github.io/blog/tags/</loc>
+    <loc>https://qius416.github.io/blog/posts/</loc>
+    <lastmod>2018-02-12T12:22:27+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://qius416.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
